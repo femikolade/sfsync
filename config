@@ -1,0 +1,5 @@
+host remote-ip-address
+user root
+port remote-ssh-port
+remote_dir /path-to-remote-directory
+local_dir /path-to-local-directory
